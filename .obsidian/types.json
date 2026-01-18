@@ -5,6 +5,8 @@
     "tags": "tags",
     "superseded_date": "date",
     "approval_date": "date",
-    "birthday": "date"
+    "birthday": "date",
+    "date": "datetime",
+    "last_met_on": "date"
   }
 }

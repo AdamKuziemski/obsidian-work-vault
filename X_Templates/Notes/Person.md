@@ -2,6 +2,12 @@
 tags:
 team:
 birthday:
+last_met_on:
 ---
-## Interests
+## Key Information
+
+### Responsibilities
+
+
+### Interests & Hobbies
 

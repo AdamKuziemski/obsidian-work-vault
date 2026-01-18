@@ -4,6 +4,15 @@
 ## Lessons
 
 
+## Unfinished Tasks
+
+```dataview
+TASK
+FROM "Daily"
+SORT file.name DESC
+WHERE !completed AND file.ctime >= date(today) - dur(1 week)
+GROUP BY file.name
+```
 ## Days in this Week
 
 <%*
@@ -16,11 +25,3 @@ tR += Array.from({ length: 5 })
     return `* [[${d.getFullYear()}-${month}-${day}]]`;
 }).join('\n');
 %>
-
-```dataview
-TASK
-FROM "Daily"
-SORT file.name DESC
-WHERE !completed AND file.ctime >= date(today) - dur(1 week)
-GROUP BY file.name
-```

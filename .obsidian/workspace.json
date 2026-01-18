@@ -4,24 +4,102 @@
     "type": "split",
     "children": [
       {
-        "id": "53a38c8554f5d340",
+        "id": "069ec942de2d08b6",
         "type": "tabs",
         "children": [
           {
-            "id": "b5c91e8f80810236",
+            "id": "ace8b678394cde94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teams/Example team.md",
+                "file": "Articles/How to Create an Architecture Decision Record (ADR).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example team"
+              "title": "How to Create an Architecture Decision Record (ADR)"
+            }
+          },
+          {
+            "id": "74b55a7560558a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X_Templates/Notes/Weekly note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weekly note"
+            }
+          },
+          {
+            "id": "2baf9a1f67be3e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Obsidian resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian resources"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ab4bd1fd22e77631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bf090ecfbd0bc47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X_Templates/Notes/Weekly note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weekly note"
+            }
+          },
+          {
+            "id": "d983cd3600481e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X_Templates/Notes/Monthly note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monthly note"
+            }
+          },
+          {
+            "id": "a2daf234889a630e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X_Templates/Notes/Architecture Decision Record (ADR).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architecture Decision Record (ADR)"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "right": {
     "id": "d4011cfb6a76cd34",
@@ -156,17 +234,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teams/Example team.md",
+                "file": "X_Templates/Notes/Weekly note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Example team"
+              "title": "Outline of Weekly note"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -183,46 +261,50 @@
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "periodic-notes:Open this week": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b5c91e8f80810236",
+  "active": "74b55a7560558a02",
   "lastOpenFiles": [
-    "Projects/Example project.md",
-    "Teams/Example team.md",
-    "Projects/Example project cards/Example task.md",
+    "Personal/Weekly notes/2026-W04.md",
+    "X_Templates/Notes/Weekly note.md",
+    "X_Templates/Templater/Timestamp.md",
+    "Resources/Obsidian resources.md",
+    "Articles/A Career Cold Start Algorithm.md",
     "Dashboard.md",
-    "Projects/Example project cards",
+    "Daily/Stats/Stats.md",
+    "X_Templates/Notes/Daily note.md",
+    "X_Templates/Notes/Architecture Decision Record (ADR).md",
+    "Daily/2026-01-18.md",
+    "System/Tools.md",
+    "Personal/Notes",
+    "System/Environments.md",
+    "Notes/Accounts.md",
     "Presentations/Example presentation.md",
-    "Projects/Untitled.md",
-    "People/Example person.md",
-    "Daily/Stats.md",
-    "Apps/Example app.md",
-    "X_Templates/Daily note.md",
-    "Apps",
-    "Presentations/Slideshow.md",
-    "Resources/Articles.md",
-    "Projects/Project Poodles Kanban.md",
-    "Articles/A change detection, zone.js, zoneless, local change detection, and signals story.md",
-    "Daily/2026-01-01.md",
-    "Daily/2026-01-10.md",
-    "Projects/Poodles/Next card.md",
-    "Articles/Who needs an architect.md",
-    "Articles/Where's the Shovelware - Why AI Coding Claims Don't Add Up.md",
-    "Articles/What is wrong with boolean parameters.md",
-    "Articles/Using the Command pattern for undo functionality.md",
-    "Articles/Using `unwrap` in Rust is okay.md",
-    "Articles/The Joel Test - 12 Steps to Better Code.md",
-    "Articles/The inject function is not a service locator.md",
-    "Articles/The Humble Programmer (EWD 340).md",
-    "Articles/Working in the software industry, circa 1989.md",
-    "Articles",
-    "Projects/Poodles",
-    "Projects",
-    "Resources",
-    "X_Attachments",
-    "Presentations",
-    "Meetings",
-    "Daily"
+    "Notes",
+    "ADR/Example ADR.md",
+    "Daily/Stats",
+    "X_Templates/Notes/Service.md",
+    "Projects/Example project.md",
+    "Projects/Example project cards/Example task.md",
+    "X_Templates/Notes/Person.md",
+    "People/Pszemo.md",
+    "Pszemo.md",
+    "System/Soms.md",
+    "X_Templates/Templater",
+    "X_Templates/Notes",
+    "X_Templates/Notes/Monthly note.md",
+    "X_Templates/Notes/Article.md",
+    "Articles/A 5 min weekly habit completely changed my performance review and got me a bigger raise.md",
+    "Articles/How to Create an Architecture Decision Record (ADR).md",
+    "Personal/Monthly notes",
+    "Personal/Weekly notes",
+    "Personal",
+    "locales/en/templates",
+    "locales/en",
+    "X_Attachments/53c83842-05e1-4ca1-9021-c292e8f3a502_600x371.png",
+    "X_Attachments/ccs-209764-0-89904200-1365174059.gif"
   ]
 }

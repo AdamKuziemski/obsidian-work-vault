@@ -324,9 +324,9 @@ Lastly, in case that’s not obvious to you, this entire blog post is also produ
 
 ---
 
-1. [https://docs.qmk.fm](https://docs.qmk.fm) [[return]](https://about.houqp.me/posts/rusty-c/#fnref:1)
-2. In QMK, you implement all custom keyboard logic in keymap file. This file contains layered key mappings, which are defined in a global array called keymaps, and other custom keyboard event handling code. [[return]](https://about.houqp.me/posts/rusty-c/#fnref:2)
-3. [https://doc.rust-lang.org/std/keyword.extern.html](https://doc.rust-lang.org/std/keyword.extern.html) [[return]](https://about.houqp.me/posts/rusty-c/#fnref:3)
-4. Thanks to [Shadow0133](https://www.reddit.com/user/Shadow0133/) for the [correction on reason to use unsafe](https://www.reddit.com/r/rust/comments/ds3qr7/how_to_make_your_c_codebase_rusty_rewriting/f6nbegs/). [[return]](https://about.houqp.me/posts/rusty-c/#fnref:Shadow0133)
-5. [https://drop.com/buy/massdrop-alt-mechanical-keyboard](https://drop.com/buy/massdrop-alt-mechanical-keyboard) [[return]](https://about.houqp.me/posts/rusty-c/#fnref:4)
-6. [https://doc.rust-lang.org/cargo/reference/build-scripts.html](https://doc.rust-lang.org/cargo/reference/build-scripts.html) [[return]](https://about.houqp.me/posts/rusty-c/#fnref:5)
+1. [https://docs.qmk.fm](https://docs.qmk.fm) [return](https://about.houqp.me/posts/rusty-c/#fnref:1)
+2. In QMK, you implement all custom keyboard logic in keymap file. This file contains layered key mappings, which are defined in a global array called keymaps, and other custom keyboard event handling code. [return](https://about.houqp.me/posts/rusty-c/#fnref:2)
+3. [https://doc.rust-lang.org/std/keyword.extern.html](https://doc.rust-lang.org/std/keyword.extern.html) [return](https://about.houqp.me/posts/rusty-c/#fnref:3)
+4. Thanks to [Shadow0133](https://www.reddit.com/user/Shadow0133/) for the [correction on reason to use unsafe](https://www.reddit.com/r/rust/comments/ds3qr7/how_to_make_your_c_codebase_rusty_rewriting/f6nbegs/). [return](https://about.houqp.me/posts/rusty-c/#fnref:Shadow0133)
+5. [https://drop.com/buy/massdrop-alt-mechanical-keyboard](https://drop.com/buy/massdrop-alt-mechanical-keyboard) [return](https://about.houqp.me/posts/rusty-c/#fnref:4)
+6. [https://doc.rust-lang.org/cargo/reference/build-scripts.html](https://doc.rust-lang.org/cargo/reference/build-scripts.html) [return](https://about.houqp.me/posts/rusty-c/#fnref:5)

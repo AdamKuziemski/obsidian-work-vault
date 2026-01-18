@@ -518,7 +518,10 @@
     "WreakHavoc": null,
     "WroughtIron": null
   },
-  "userDictionary": [],
+  "userDictionary": [
+    "ADR",
+    "ADRs"
+  ],
   "dialect": 1,
   "delay": -1,
   "lintEnabled": true

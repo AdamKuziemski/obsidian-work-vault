@@ -1,0 +1,26 @@
+---
+tags:
+  - topic/management
+author: iSayKay
+source: https://www.reddit.com/r/ExperiencedDevs/comments/1n7zuba/a_5_min_weekly_habit_completely_changed_my/
+read: false
+---
+I know like me a lot of y’all are coming up on your performance reviews or they just passed and I wanted to talk about a habit that I feel like a lot of people might not know about.
+
+When performance reviews came around I would spend hours searching slack and Jira tickets about what I did the last year, it was incredibly frustrating. About two or so years ago I got a new manager that taught me about brag documents, basically you fill it out through out the year to have all your accomplishments in one document. We did monthly summaries, every month I’d fill out what I did for the month and send it to my manager. It helped a lot during last year’s performance review. Unfortunately, I started filling out my monthly summaries a month later or a few weeks after the week ended cause I was so busy. Still helpful but still stressed me out when I’m trying to focus on coding.
+
+I realized doing it weekly is the hack. Choose the same time every week for me it’s Friday at like 3 and I take 5 mins to log the top accomplishments from the week. Made it easier to make a habit of it rather than forcing myself to write a big review later in the month or year.
+
+Feel free to use this template, it’s simple but gets the job done.
+
+- win: shipped X / fixed Y
+- before / after: 310ms / 190ms
+- metric:
+- who benefited:
+- evidence: link/screenshot
+
+I've used notion, google doc and sheet and kudos notes and honestly they all work fine. Use what you feel the most comfortable with and will help you keep the habit up.
+
+If you track wins, what changed for you at review time? Any tricks to keep the  habit going in month 5–6 and beyond?
+
+TL;DR: track your accomplishments weekly, it makes it easier to remember what you did the last week rather than year.

@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "superseded_date": "date",
+    "approval_date": "date",
+    "birthday": "date"
+  }
+}

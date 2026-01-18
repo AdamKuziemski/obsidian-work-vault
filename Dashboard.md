@@ -1,3 +1,4 @@
+
 ## Unfinished Tasks
 
 ### Last 7 Days
@@ -9,7 +10,6 @@ WHERE !completed AND file.ctime >= date(today) - dur(1 week)
 GROUP BY file.name
 ```
 ### Older 👀
-
 ```dataview
 TASK
 FROM "Daily"

@@ -1,8 +1,79 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "ca4787ae-cef8-459e-a5be-3c11e3902538",
+      "name": "Service",
+      "type": "Template",
+      "command": false,
+      "templatePath": "X_Templates/Notes/Service.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "System"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "replaceSelection",
+        "requireActiveFile": true,
+        "linkType": "link"
+      },
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "eec8ae75-a902-44d5-9807-45e72a064180",
+      "name": "Person",
+      "type": "Template",
+      "command": false,
+      "templatePath": "X_Templates/Notes/Person.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "People"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "replaceSelection",
+        "requireActiveFile": true,
+        "linkType": "link"
+      },
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "X_Templates",
   "announceUpdates": "all",
   "version": "2.9.4",
   "globalVariables": {},

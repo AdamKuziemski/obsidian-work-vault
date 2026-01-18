@@ -1,4 +1,7 @@
 {
   "show-checkboxes": true,
-  "new-note-folder": "Projects"
+  "new-note-folder": "Projects",
+  "move-tags": false,
+  "link-date-to-daily-note": true,
+  "date-picker-week-start": 1
 }

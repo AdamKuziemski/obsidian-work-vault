@@ -108,7 +108,7 @@ My pet theory is that this problem can be fixed by teaching programmers to be le
 Learn all about writing specs by reading my [4-part series](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/).
 ## Do programmers have quiet working conditions?
 
-There are extensively documented productivity gains provided by giving knowledge workers space, quiet, and privacy. The classic software management book [[Peopleware - Productive Projects and Teams]] documents these productivity benefits extensively.
+There are extensively documented productivity gains provided by giving knowledge workers space, quiet, and privacy. The classic software management book [Peopleware - Productive Projects and Teams](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams) documents these productivity benefits extensively.
 
 Here’s the trouble. We all know that knowledge workers work best by getting into “flow”, also known as being “in the zone”, where they are fully concentrated on their work and fully tuned out of their environment. They lose track of time and produce great stuff through absolute concentration. This is when they get all of their productive work done. Writers, programmers, scientists, and even basketball players will tell you about being in the zone.
 

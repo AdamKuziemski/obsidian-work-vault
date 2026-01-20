@@ -1,6 +1,8 @@
 ---
 tags:
 team:
+email:
+phone_number:
 birthday:
 last_met_on:
 ---

@@ -1,3 +1,4 @@
+[Obsidian developer docs](https://docs.obsidian.md/Home)
 ## Plugin Documentation
 
 [Advanced Slides documentation](https://mszturc.github.io/obsidian-advanced-slides/basic-syntax/)

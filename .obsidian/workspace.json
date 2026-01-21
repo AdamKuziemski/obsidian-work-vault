@@ -8,56 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ace8b678394cde94",
+            "id": "576b26492aacd161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/How to Create an Architecture Decision Record (ADR).md",
+                "file": "Resources/Obsidian resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Create an Architecture Decision Record (ADR)"
+              "title": "Obsidian resources"
             }
           },
           {
-            "id": "74b55a7560558a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X_Templates/Notes/Daily note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily note"
-            }
-          },
-          {
-            "id": "2baf9a1f67be3e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ab4bd1fd22e77631",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7bf090ecfbd0bc47",
+            "id": "57599727bb36756c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,51 +34,29 @@
               "icon": "lucide-file",
               "title": "Weekly note"
             }
-          },
-          {
-            "id": "7b0445913ec19a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meetings/Example meeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Example meeting"
-            }
-          },
-          {
-            "id": "d983cd3600481e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X_Templates/Notes/Monthly note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Monthly note"
-            }
-          },
-          {
-            "id": "a2daf234889a630e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X_Templates/Notes/Meeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meeting"
-            }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "00e4e97823d317d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "980914ab85a8bc08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Example person.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Example person"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md",
+                "file": "X_Templates/Notes/Weekly note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of Weekly note"
             }
           }
         ],
@@ -280,19 +223,29 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2baf9a1f67be3e10",
+  "active": "57599727bb36756c",
   "lastOpenFiles": [
-    "Meetings/Example meeting.md",
-    "Dashboard.md",
-    "X_Templates/Notes/Weekly note.md",
     "X_Templates/Notes/Daily note.md",
-    "X_Templates/Notes/Person.md",
-    "Personal/Weekly notes/2026-W04.md",
-    "X_Templates/Notes/Meeting.md",
-    "X_Templates/Templater/Files created today.md",
-    "People/Siemanko.md",
-    "X_Templates/Notes/Monthly note.md",
+    "X_Templates/Notes/Weekly note.md",
     "Resources/Obsidian resources.md",
+    "People/Example person.md",
+    "Views/Meetings.md",
+    "Daily/2026-01-21.md",
+    "X_Templates/Templater/Jira ticket URL.md",
+    "X_Templates/Templater/Timestamp.md",
+    "Personal/Weekly notes/2026-W04.md",
+    "X_Templates/Notes/Monthly note.md",
+    "X_Templates/Templater/Pull Request URL.md",
+    "X_Templates/Templater/Files created today.md",
+    "Views/Unfinished Tasks.md",
+    "Dashboard.md",
+    "Meetings/Example meeting.md",
+    "Views",
+    "X_Templates/Notes/Person.md",
+    "Projects/Example project.md",
+    "Articles/How to Create an Architecture Decision Record (ADR).md",
+    "X_Templates/Notes/Meeting.md",
+    "People/Siemanko.md",
     "Meetings/Untitled.md",
     "Personal/Weekly notes/Example weekly note.md",
     "Meetings",
@@ -300,24 +253,14 @@
     "Personal/Monthly notes/Example monthly note.md",
     "X_Templates/Notes/Article.md",
     "Resources/Basic ADR structure.md",
-    "X_Templates/Templater/Timestamp.md",
-    "Articles/A Career Cold Start Algorithm.md",
-    "Daily/Stats/Stats.md",
-    "Daily/2026-01-18.md",
-    "System/Tools.md",
     "Personal/Notes",
-    "System/Environments.md",
-    "Personal/Notes/Accounts.md",
-    "Presentations/Example presentation.md",
     "Notes",
-    "ADR/Example ADR.md",
     "Daily/Stats",
     "X_Templates/Templater",
     "X_Templates/Notes",
     "Personal/Monthly notes",
     "Personal/Weekly notes",
     "Personal",
-    "locales/en/templates",
     "X_Attachments/53c83842-05e1-4ca1-9021-c292e8f3a502_600x371.png",
     "X_Attachments/ccs-209764-0-89904200-1365174059.gif"
   ]

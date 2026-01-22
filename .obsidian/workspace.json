@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Obsidian resources.md",
+                "file": "Resources/Architecture resources.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian resources"
+              "title": "Architecture resources"
             }
           },
           {
@@ -35,8 +36,7 @@
               "title": "Weekly note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "00e4e97823d317d8",
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X_Templates/Notes/Weekly note.md",
+                "file": "Resources/Architecture resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Weekly note"
+              "title": "Outline of Architecture resources"
             }
           }
         ],
@@ -223,12 +223,15 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "57599727bb36756c",
+  "active": "576b26492aacd161",
   "lastOpenFiles": [
-    "X_Templates/Notes/Daily note.md",
-    "X_Templates/Notes/Weekly note.md",
+    "Resources/Git good practices.md",
+    "Resources/Architecture resources.md",
     "Resources/Obsidian resources.md",
+    "Resources/Basic ADR structure.md",
     "People/Example person.md",
+    "X_Templates/Notes/Weekly note.md",
+    "X_Templates/Notes/Daily note.md",
     "Views/Meetings.md",
     "Daily/2026-01-21.md",
     "X_Templates/Templater/Jira ticket URL.md",
@@ -250,9 +253,6 @@
     "Personal/Weekly notes/Example weekly note.md",
     "Meetings",
     "X_Templates/Notes/Architecture Decision Record (ADR).md",
-    "Personal/Monthly notes/Example monthly note.md",
-    "X_Templates/Notes/Article.md",
-    "Resources/Basic ADR structure.md",
     "Personal/Notes",
     "Notes",
     "Daily/Stats",

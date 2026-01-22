@@ -1,3 +1,7 @@
+---
+tags:
+  - topic/programming/architecture
+---
 Taken from [Fundamentals of Software Architecture - An Engineering Approach](https://fundamentalsofsoftwarearchitecture.com/).
 See also [[How to Create an Architecture Decision Record (ADR)]]
 ## Title

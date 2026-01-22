@@ -1,4 +1,9 @@
+---
+tags:
+  - obsidian
+---
 [Obsidian developer docs](https://docs.obsidian.md/Home)
+[Obsidian help](https://help.obsidian.md/)
 ## Plugin Documentation
 
 [Advanced Slides documentation](https://mszturc.github.io/obsidian-advanced-slides/basic-syntax/)

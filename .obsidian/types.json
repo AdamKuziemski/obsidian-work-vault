@@ -7,6 +7,7 @@
     "approval_date": "date",
     "birthday": "date",
     "date": "datetime",
-    "last_met_on": "date"
+    "last_met_on": "date",
+    "duration": "number"
   }
 }

@@ -1,6 +1,7 @@
 ---
 date:
 url:
+duration:
 ---
 ## Participants
 

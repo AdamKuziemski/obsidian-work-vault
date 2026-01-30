@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.folder.startsWith("Meetings")
+formulas:
+  Day of meeting: date(date).format('YYYY-MM-DD')
+  Time: date(date).format('HH:mm') + '-' + (date(date) + duration(duration + 'm')).format('HH:mm')
+  Meeting: link(url, file.name)
+properties:
+  formula.Day of meeting:
+    displayName: Date
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: formula.Day of meeting
+      direction: ASC
+    order:
+      - formula.Meeting
+      - formula.Time
+      - file.name
+    sort:
+      - property: date
+        direction: ASC
+    columnSize:
+      formula.Meeting: 484
+      formula.Time: 110
